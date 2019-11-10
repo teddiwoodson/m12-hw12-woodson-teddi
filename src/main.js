@@ -10,6 +10,8 @@ class IceCream extends Desserts {
     super(type, calories);
     this.flavor = flavor;
     this.scoops = scoops;
-
+  }
+  includeSpoon() {
+    
   }
 }
