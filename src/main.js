@@ -12,6 +12,6 @@ class IceCream extends Desserts {
     this.scoops = scoops;
   }
   includeSpoon() {
-    
+     console.log('Here is your spoon!')
   }
 }
